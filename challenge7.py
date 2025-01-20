@@ -22,6 +22,6 @@ def create_and_list_dir(dir_path: str) -> list[str]:
 
 ## Test
 if __name__ == "__main__":
-    directory_path = "C:/Users/Asus/Desktop/software-team-training-path/second_week/Challenges Simon Ocampo/example_directory"
+    directory_path = "C:/Users/Asus/Desktop/software-team-training-path/second_week/Challenges Simon Ocampo/example_directory-challenge7"
     files = create_and_list_dir(directory_path)
     print(f"Files '{directory_path}':", files)
